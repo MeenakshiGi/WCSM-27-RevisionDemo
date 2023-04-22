@@ -12,5 +12,7 @@ public class TestClassForGitRevision {
 		
 		System.out.println("New line-------------");
 
+		System.out.println("New line 2nd-------------");	
+		System.out.println("New line 3rd-------------");
 	}
 }
