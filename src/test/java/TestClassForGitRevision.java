@@ -9,6 +9,8 @@ public class TestClassForGitRevision {
 		System.out.println("Hello");
 
 		System.out.println("Hello-------------");
+		
+		System.out.println("New line-------------");
 
 	}
 }
